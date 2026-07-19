@@ -1,7 +1,7 @@
 [project]
 name = "playground-series-s6e3"
 version = "0.1.0"
-description = "Add your description here"
+description = "Kaggle playground series project predicting customer churn."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [

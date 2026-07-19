@@ -2,7 +2,7 @@
 
 Binary classification project predicting the probability that a telecom customer will churn, built for [Kaggle Playground Series — Season 6, Episode 3](https://www.kaggle.com/competitions/playground-series-s6e3/). The competition is scored on **ROC-AUC**.
 
-**Best model:** tuned XGBoost — **0.9162 ± 0.0008 CV ROC-AUC** (5-fold stratified).
+**Best model:** tuned XGBoost — **0.9168 ROC-AUC**.
 
 ---
 
